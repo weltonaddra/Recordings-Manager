@@ -1,0 +1,37 @@
+// File name Recording_Addra.java
+// Written by Welton Addra
+// Written on January 21th 2022
+// Instructor: Udeme Aaron 
+
+public class Recording_Addra {
+    private String title;
+    private String artist;
+    private int playTime;
+    
+    public void setTitle(String title){
+        this.title = title;
+    }
+
+    public void setArtist(String artist){
+        this.artist = artist;
+    }
+
+    public void setPlayTime(int playTime){
+        this.playTime = playTime;
+    }
+
+    public String getTitle(){
+        return title;
+    }
+
+    public String getArtist(){
+        return artist;
+    }
+
+    public int getPlayTime(){
+        return playTime;
+    }
+
+
+    
+}
