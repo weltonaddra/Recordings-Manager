@@ -6,11 +6,11 @@
 
   <groupId>com.github.weltonaddra</groupId>
   <artifactId>recordings-manager</artifactId>
-  <version>1.0.0</version>
+  <version>1.1.0</version>
   <packaging>jar</packaging>
 
   <name>Recordings-Manager</name>
-  <description>Console application that collects recordings and sorts them by title, artist, or playtime.</description>
+  <description>Console application that manages a library of recordings and sorts them by title, artist, or playtime.</description>
 
   <properties>
     <maven.compiler.release>17</maven.compiler.release>
